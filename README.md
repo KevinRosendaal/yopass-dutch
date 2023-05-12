@@ -41,5 +41,5 @@ Kloon deze repository en bouw uw eigen container met het Nederlandse taalbestand
 ```
 git clone https://github.com/KevinRosendaal/yopass-dutch.git
 cd yopass-dutch
-docker build -t anturix/yopassnl -f Dockerfile
+docker build -t kevinrosendaal/yopassnl -f Dockerfile
 ```
