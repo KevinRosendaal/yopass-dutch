@@ -1,6 +1,8 @@
 
 # Yopass - Dutch language file
 
+***Credits to [Anturix](https://github.com/Anturix) for example about translating Yopass***
+
 ---
 ## English
 Dutch language File for yopass by Johan Haals (jhaals/yopass)   
@@ -19,7 +21,7 @@ Check this repository out and build your own container with the Dutch language f
 ```
 git clone https://github.com/KevinRosendaal/yopass-dutch.git
 cd yopass-dutch
-docker build -t kevinrosendaal/yopassnl -f Dockerfile
+docker build -t kevinrosendaal/yopassnl -f Dockerfile .
 ```
 
 ---
@@ -41,5 +43,5 @@ Kloon deze repository en bouw uw eigen container met het Nederlandse taalbestand
 ```
 git clone https://github.com/KevinRosendaal/yopass-dutch.git
 cd yopass-dutch
-docker build -t kevinrosendaal/yopassnl -f Dockerfile
+docker build -t kevinrosendaal/yopassnl -f Dockerfile .
 ```
